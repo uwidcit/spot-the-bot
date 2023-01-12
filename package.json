@@ -24,7 +24,7 @@
     "gae:static": "cpx \"out/**/*\" gae/static"
   },
   "dependencies": {
-    "debug": "^2.6.0",
+    "debug": "^2.6.9",
     "three": "^0.84.0",
     "vue": "^2.2.1",
     "vuex": "^2.1.2"
